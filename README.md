@@ -4,3 +4,6 @@ The DID Presentation Request allows a Verifier of credential information to spec
 
 Details can be found in the [Explainer](explainer.md).
 
+## Proposals
+
+[Presentation Message Format](proposals/presentation-message-format.md)
